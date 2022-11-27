@@ -86,8 +86,8 @@ body{
 }
 .skill_item{
     border: #474306 solid 4px;
-    width: 350px;
-    height: 500px;
+    width: 600px;
+    height: 600px;
     padding: 15px;
     text-align: center;
 }
