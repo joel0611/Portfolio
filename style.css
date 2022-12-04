@@ -86,12 +86,27 @@ body{
 }
 .skill_item{
     border: #474306 solid 4px;
-    width: 600px;
-    height: 600px;
+    width: 350px;
+    height: 400px;
     padding: 15px;
     text-align: center;
 }
 .skill_container{
     display: flex;
     justify-content: space-between;
+}
+#contact{
+    font-size: 20px;
+    padding: 20px;
+}
+.contact_look{
+    display: flex;
+    justify-content: space-between;
+}
+.contact_img{
+    width: 50%;
+    padding: 20px;
+}
+.contact_para{
+    width: 50%;
 }
